@@ -1,1 +1,1 @@
-# Sudoku-AI-Backtracking
+# Sudoku-AI-Backtracking Algorithm
